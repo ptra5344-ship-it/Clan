@@ -1,0 +1,8 @@
+{
+  "name": "tra",
+  "private": true,
+  "version": "0.1.0",
+  "scripts": {
+    "vercel-build": "bash scripts/vercel-build.sh"
+  }
+}
